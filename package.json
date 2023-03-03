@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  },
+  "name": "03-bases_node",
+  "description": "nos ayuda a poner nuestras aplicaciones en consola",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tablaMultiplicar": "node app --base3"
+  },
+  "author": "Paola Mares",
+  "license": "MIT",
+  "volta": {
+    "node": "18.14.2"
+  }
+}
